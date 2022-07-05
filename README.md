@@ -1,40 +1,17 @@
-# title of case study
-date: (even if you have git)
-contact: (for context)
-status: draft | published | review (inspiration from RFC?)
+# Case Study Guide
 
-## context
+This is a repo containing information on creating, publishing, and sharing case studies.
 
-...
+## Why Create This Guide
 
-## constraints
+Case studies are an important historical document that highlight the success and purpose of past projects. They offer insight into how future projects can be scoped and how they can be managed to mimic the success of past projects.
 
-...
+Not all case studies are created equal though, and some can only be used in certain contexts. This guide will help case study authors and contributers create new case studies and provide guidance in how case studies should be used going forward.
 
-## suggested solution
+## Public domain
 
-high level
+This project is in the worldwide public domain. As stated in CONTRIBUTING:
 
-## limitations
+This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [(CC0 1.0        Universal public domain dedication)].
 
-scope cuts, not addressed, ignored because mvp
-
-## adopted solution
-
-details
-
-### detail section 1
-
-e.g. deployment
-
-### detail section 2
-
-e.g. usage and processes
-
-## alternative, discarded solutions
-
-...
-
-### diagrams, code and other resources
-
-...
+All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver      of copyright interest.
